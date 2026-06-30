@@ -10,7 +10,7 @@ Developing engineering capabilities in the physical-to-digital data pipeline for
 
 ## Machine Condition Monitoring System
 
-**Repository:** `machine-condition-monitoring`
+**Repository:** `Tier_3_PDm_sys`
 
 **Purpose**
 
@@ -34,7 +34,7 @@ Validated using controlled simulated vibration signals to verify diagnostic algo
 
 ## Industrial Asset Monitoring Platform (Smart Exhaust)
 
-**Repository:** `smart-exhaust-telemetry`
+**Repository:** `DRP project`
 
 **Purpose**
 
@@ -58,7 +58,8 @@ Prototype implementation based on an HTTP request-response architecture. Industr
 
 ## Bearing Fault Diagnosis using Deep Learning
 
-**Repository:** `bearing-fault-deep-learning`
+**Repository:** `Bearing-Fault-Diagnosis-System
+`
 
 **Purpose**
 
